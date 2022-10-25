@@ -1,5 +1,4 @@
-# You don't need to add/edit anything to the below solution. 
-# Click on the SUBMIT button to solve your first problem on CodeChef.
+#program to print max number of the given two numbers
 
 
 t=int(input())
